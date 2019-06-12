@@ -1,2 +1,2 @@
 # Toxic_Comment
-Toxic Comment Classification Challenge
+This is the solution to one of the kaggle challenges about toxicity.
